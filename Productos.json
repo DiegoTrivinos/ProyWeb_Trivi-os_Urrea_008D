@@ -1,0 +1,253 @@
+{ 
+    "producto":[ 
+        {
+            "id":"1",
+            "nombre":"H1",
+            "tipo":"Turbo led",
+            "lumenes":"26000",
+            "disponible":"6"
+        },
+
+        {
+            "id":"2",
+            "nombre":"H3",
+            "tipo":"Turbo led",
+            "lumenes":"26000",
+            "disponible":"2"
+        },
+
+        {
+            "id":"3",
+            "nombre":"H4",
+            "tipo":"Turbo led",
+            "lumenes":"40000",
+            "disponible":"1"
+        },
+
+        {
+            "id":"4",
+            "nombre":"H7",
+            "tipo":"Turbo led",
+            "lumenes":"26000",
+            "disponible":"0"
+        },
+
+        {
+            "id":"5",
+            "nombre":"H8",
+            "tipo":"Turbo led",
+            "lumenes":"26000",
+            "disponible":"4"
+        },
+
+        {
+            "id":"6",
+            "nombre":"H9",
+            "tipo":"Turbo led",
+            "lumenes":"26000",
+            "disponible":"8"
+        },
+
+        {
+            "id":"7",
+            "nombre":"H11",
+            "tipo":"Turbo led",
+            "lumenes":"26000",
+            "disponible":"3"
+        },
+
+        {
+            "id":"8",
+            "nombre":"H27",
+            "tipo":"Turbo led",
+            "lumenes":"26000",
+            "disponible":"2"
+        },
+
+        {
+            "id":"9",
+            "nombre":"880",
+            "tipo":"Turbo led",
+            "lumenes":"26000",
+            "disponible":"9"
+        },
+
+        {
+            "id":"10",
+            "nombre":"881",
+            "tipo":"Turbo led",
+            "lumenes":"26000",
+            "disponible":"2"
+        },
+
+        {
+            "id":"11",
+            "nombre":"9005",
+            "tipo":"Turbo led",
+            "lumenes":"26000",
+            "disponible":"3"
+        },
+
+        {
+            "id":"12",
+            "nombre":"9006",
+            "tipo":"Turbo led",
+            "lumenes":"26000",
+            "disponible":"4"
+        },
+
+        {
+            "id":"13",
+            "nombre":"Led velocimetro (T5)",
+            "tipo":"Luces led",
+            "lumenes":"300",
+            "disponible":"72"
+        },
+
+        {
+            "id":"14",
+            "nombre":"Led muelita (T10)",
+            "tipo":"Luces led",
+            "lumenes":"300",
+            "disponible":"114"
+        },
+
+        {
+            "id":"15",
+            "nombre":"Led reversa (T15)",
+            "tipo":"Luces led",
+            "lumenes":"2000",
+            "disponible":"20"
+        },
+
+        {
+            "id":"16",
+            "nombre":"Led Interior (C5W)",
+            "tipo":"Luces led",
+            "lumenes":"600",
+            "disponible":"50"
+        },
+
+        {
+            "id":"17",
+            "nombre":"Rojo (1156)",
+            "tipo":"P21",
+            "lumenes":"3000",
+            "disponible":"6"
+        },
+
+        {
+            "id":"18",
+            "nombre":"Amarillo (1156)",
+            "tipo":"P21",
+            "lumenes":"3000",
+            "disponible":"8"
+        },
+
+        {
+            "id":"19",
+            "nombre":"Blanco (1156)",
+            "tipo":"P21",
+            "lumenes":"3000",
+            "disponible":"9"
+        },
+
+        {
+            "id":"20",
+            "nombre":"Rojo (1156)",
+            "tipo":"PY21",
+            "lumenes":"3000",
+            "disponible":"3"
+        },
+
+        {
+            "id":"21",
+            "nombre":"Amarillo (1156)",
+            "tipo":"PY21",
+            "lumenes":"3000",
+            "disponible":"5"
+        },
+
+        {
+            "id":"22",
+            "nombre":"Blanco (1156)",
+            "tipo":"PY21",
+            "lumenes":"3000",
+            "disponible":"6"
+        },
+
+        {
+            "id":"23",
+            "nombre":"Rojo (1157)",
+            "tipo":"PR21",
+            "lumenes":"3000",
+            "disponible":"2"
+        },
+
+        {
+            "id":"24",
+            "nombre":"Amarillo (1157)",
+            "tipo":"PR21",
+            "lumenes":"3000",
+            "disponible":"9"
+        },
+
+        {
+            "id":"25",
+            "nombre":"Blanco (1157)",
+            "tipo":"PR21",
+            "lumenes":"3000",
+            "disponible":"12"
+        },
+
+        {
+            "id":"26",
+            "nombre":"Rojo (7440)",
+            "tipo":"7440",
+            "lumenes":"3000",
+            "disponible":"5"
+        },
+        
+        {
+            "id":"27",
+            "nombre":"Amarillo (7440)",
+            "tipo":"7440",
+            "lumenes":"3000",
+            "disponible":"7"
+        },
+        
+        {
+            "id":"28",
+            "nombre":"Blanco (7440)",
+            "tipo":"7440",
+            "lumenes":"3000",
+            "disponible":"3"
+        },
+
+        {
+            "id":"29",
+            "nombre":"Rojo (7443)",
+            "tipo":"7443",
+            "lumenes":"3000",
+            "disponible":"12"
+        },
+        
+        {
+            "id":"30",
+            "nombre":"Amarillo (7443)",
+            "tipo":"7443",
+            "lumenes":"3000",
+            "disponible":"13"
+        },
+        
+        {
+            "id":"31",
+            "nombre":"Blanco (7443)",
+            "tipo":"7443",
+            "lumenes":"3000",
+            "disponible":"1"
+        }
+
+    ]
+
+}
